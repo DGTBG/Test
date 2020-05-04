@@ -1,0 +1,30 @@
+.center-plane{
+    margin: auto;
+    width: 100%;
+    border: 1px solid white;
+}
+@media screen and (min-width: 1000px) {
+.center-plane {width: 50%;}
+}
+
+
+
+.el-row{
+    margin: 5px 0;
+}
+
+.edit-a{
+    float:right;
+    margin: 0 3px 5px 3px;
+}
+.small-title{
+    padding: 5px;
+    /* border: 1px solid red; */
+}
+.edit-head-menu{
+    margin: 25px 0;
+}
+.big-btn{
+    width: 100%;
+    
+}
